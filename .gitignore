@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# For simplicity, allow the JAR file to be uploaded to Git.
+!target/employee-spring-boot-webapp-0.0.1-SNAPSHOT.jar
+
 ### STS ###
 .apt_generated
 .classpath
