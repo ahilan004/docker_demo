@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 # For simplicity, allow the JAR file to be uploaded to Git.
-!target/demo_docker-0.0.1-SNAPSHOT
+!target/demo_docker-0.0.1-SNAPSHOT.jar
 
 ### STS ###
 .apt_generated
